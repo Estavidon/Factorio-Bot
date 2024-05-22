@@ -1,4 +1,4 @@
-# Factorio My Mod
+# Factorio Menu
 
 This mod adds a menu that allows you to automatically extract resources, put buildings, create teleportation points. There is also a function for issuing items.
 
